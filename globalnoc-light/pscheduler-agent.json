@@ -1,0 +1,9 @@
+{
+  "remotes": [
+    {
+      "url": "https://ps.light.globalnoc.iu.edu/globalnoc-light.json",
+      "configure-archives": true
+    }
+  ],
+  "pscheduler-assist-server": "localhost:8443"
+}
